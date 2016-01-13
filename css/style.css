@@ -1,0 +1,15 @@
+.buttons li{
+  list-style-type: none;
+  display: inline;
+  background-color: #eee;
+  padding: 1em;
+  margin: .5em;
+}
+
+.buttons li:hover{
+  background-color: #bbb;
+}
+
+.buttons li.dark {
+  background-color: #bbb;
+}
